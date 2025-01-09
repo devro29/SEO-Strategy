@@ -1,7 +1,5 @@
 # SEO-Strategy
 
-SEO Strategy Repository
-
 **Introduction**
 
 This project is focused on analyzing and proposing actionable SEO strategies for Reedsy, a book marketplace that empowers authors and publishing professionals. Through comprehensive research, this project provides insights and recommendations to improve Reedsy’s search engine visibility and organic traffic growth.
