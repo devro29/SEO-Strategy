@@ -10,38 +10,38 @@ This project is focused on analyzing and proposing actionable SEO strategies for
 
 The primary objectives of this project are:
 
-To analyze Reedsy’s competitive landscape and unique market position in the publishing industry.
+- To analyze Reedsy’s competitive landscape and unique market position in the publishing industry.
 
-To identify high-impact keywords and develop content strategies that align with Reedsy’s goals.
+- To identify high-impact keywords and develop content strategies that align with Reedsy’s goals.
 
-To create a roadmap for improving Reedsy’s search engine rankings and driving traffic through targeted SEO efforts.
+- To create a roadmap for improving Reedsy’s search engine rankings and driving traffic through targeted SEO efforts.
 
 **Steps to Execute**
 
 Follow these steps to explore and implement the SEO strategies outlined in this repository:
 
-Review the Research
+- Review the Research
 
-Navigate to the questions-and-answers.md file to explore the key research questions and detailed answers.
+- Navigate to the questions-and-answers.md file to explore the key research questions and detailed answers.
 
-Understand Reedsy’s competitive advantages and SEO opportunities.
+- Understand Reedsy’s competitive advantages and SEO opportunities.
 
-Analyze Suggested Keywords
+- Analyze Suggested Keywords
 
-Access the keywords-analysis/keyword-research.md file for a list of recommended keywords along with their metrics (search volume, keyword difficulty, CPC, etc.).
+- Access the keywords-analysis/keyword-research.md file for a list of recommended keywords along with their metrics (search volume, keyword difficulty, CPC, etc.).
 
 Implement Content Strategies
 
-Refer to the keywords-analysis/suggested-strategies.md file for actionable content strategies tailored to the identified keywords.
+- Refer to the keywords-analysis/suggested-strategies.md file for actionable content strategies tailored to the identified keywords.
 
-Follow the outlined steps to create high-quality, SEO-optimized content.
+- Follow the outlined steps to create high-quality, SEO-optimized content.
 
-Leverage Resources
+- Leverage Resources
 
-Use the resources in the resources/ directory, including any Ahrefs or Semrush data, to validate and supplement your strategies.
+- Use the resources in the resources/ directory, including any Ahrefs or Semrush data, to validate and supplement your strategies.
 
-Iterate and Optimize
+- Iterate and Optimize
 
-Continuously monitor keyword performance and refine content strategies based on analytics and feedback.
+- Continuously monitor keyword performance and refine content strategies based on analytics and feedback.
 
 
